@@ -11,10 +11,13 @@ The purpose of this test is to evaluate technical skills, experience and creativ
 
 ### Submission
 
-Please pay attention to these instructions:
+Please pay attention to these instructions. We may disqualify candidates for failing to follow the steps listed here.
 - Fork the repository https://github.com/figure1engineering/mobile-challenge/
-- When ready open a pull request against YOUR forked repository. Do NOT open a pull request against the parent repository (we want to keep submissions private).
-- Send us an email when your PR is ready for review. Most of the time we will merge your PR and review the solution internally. If we have questions we will ask those in the open pull request before merging.
+- Please commit changes to your forked repository's `master` branch.
+- Do NOT open a pull request to the parent repository.
+- Please send us an email reply when your code is ready for review.
+- Please make use of the existing package and directory naming schemes as much as possible.
+- We will pull your branch into an internal review process that usually doesn't require more than 5 working days.
 
 ### Problem
 
