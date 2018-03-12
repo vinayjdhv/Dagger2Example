@@ -1,3 +1,7 @@
 <resources>
-	<string name="app_name">Figure1Test</string>
+    <string name="app_name">Figure1Test</string>
+    <string name="message">Click button to see a Images from album</string>
+    <string name="show_images">Show Images</string>
+    <string name="title_activity_image_gallery">Image Gallery</string>
+    <string name="no_description">No description</string>
 </resources>
